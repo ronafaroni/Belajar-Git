@@ -3,3 +3,6 @@ const add = (a,b) => a + b;
 
 const substrack = (a,b) => a - b;
 console.log(substrack(5,2));
+
+const divide = (a,b) => a / b;
+console.log(divide(10,2));
