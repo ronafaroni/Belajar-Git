@@ -1,1 +1,0 @@
-console.log("cek lagi bisa ndak");
