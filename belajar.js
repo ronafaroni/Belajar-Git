@@ -1,1 +1,4 @@
-console.log("Bismillah Bisa!");
+console.log('Bismillah Bisa!');
+
+const add = (a,b) => a + b;
+    console.log(add(5, 5));
